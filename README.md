@@ -52,4 +52,4 @@ ggplot(parabolic, aes(x = X1, y = X2)) +
 ## Contributing
 
 If you think you have encountered a bug, please [submit an
-issue](https://github.com/jmarshlalnz/tidykda/issues).
+issue](https://github.com/jmarshallnz/tidykda/issues).
